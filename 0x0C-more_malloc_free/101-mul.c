@@ -64,4 +64,4 @@ char *iterate_zeroes(char *str)
 		str++;
 
 	return (str);
-
+}
